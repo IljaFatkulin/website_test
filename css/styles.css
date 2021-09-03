@@ -1,0 +1,10 @@
+body {
+    background-color: #383838;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 100px 0px 0px 0px;
+    color: #fff;
+}
+p {
+    color: rgb(238, 255, 0);
+}
